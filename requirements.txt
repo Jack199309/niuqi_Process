@@ -1,0 +1,4 @@
+tqdm==4.40.0
+requests==2.22.0
+pycryptodome==3.9.4
+PyQt5==5.13.2
